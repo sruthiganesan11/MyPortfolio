@@ -20,15 +20,15 @@
   },
   {
     "title": "Java",
-    "imageSrc": "skills/spring.jpeg"
+    "imageSrc": "skills/java.png"
   },
   {
     "title": "Spring",
-    "imageSrc": "skills/spring.jpeg"
+    "imageSrc": "skills/spring.png"
   },
   {
     "title": "SpringBoot",
-    "imageSrc": "skills/spring.jpeg"
+    "imageSrc": "skills/springboot.png"
   },
 
   {
@@ -43,11 +43,11 @@
 
   {
     "title": "Git",
-    "imageSrc": "skills/mysql.png"
+    "imageSrc": "skills/git.png"
   },
 
   {
     "title": "Github",
-    "imageSrc": "skills/mysql.png"
+    "imageSrc": "skills/github.png"
   }
 ]
