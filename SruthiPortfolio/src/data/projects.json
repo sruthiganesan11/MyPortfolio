@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Online Bus Ticket Reservation",
+    "imageSrc": "projects/bus.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Java", "Spring"],
+    "demo": "demo",
+    "source": "https://github.com/sruthiganesan11/Online-Bus-Reservation"
+  },
+  {
+    "title": "Patient Medicine and Appointment",
+    "imageSrc": "projects/patient.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Java", "Spring"],
+    "demo": "demo",
+    "source": "https://github.com/sruthiganesan11/Patient-Medicine-and-Appointment"
+  },
+  {
+    "title": "Employee Management Application",
+    "imageSrc": "projects/employee.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Java", "Spring"],
+    "demo": "demo",
+    "source": "https://github.com/sruthiganesan11/Employee-Management-Application"
+  }
+]
