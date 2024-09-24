@@ -39,5 +39,15 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+
+  {
+    "title": "Git",
+    "imageSrc": "skills/mysql.png"
+  },
+
+  {
+    "title": "Github",
+    "imageSrc": "skills/mysql.png"
   }
 ]
