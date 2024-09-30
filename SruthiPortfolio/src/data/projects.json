@@ -1,54 +1,50 @@
 [
   {
-    "title": "Online Bus Ticket Reservation",
-    "imageSrc": "projects/bus.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Java", "Spring"],
-    "demo": "demo",
-    "source": "https://github.com/sruthiganesan11/Online-Bus-Reservation"
-  },
-  {
-    "title": "Patient Medicine and Appointment",
-    "imageSrc": "projects/patient.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Java", "Spring"],
-    "demo": "demo",
-    "source": "https://github.com/sruthiganesan11/Patient-Medicine-and-Appointment"
-  },
-  {
-    "title": "Employee Management Application",
-    "imageSrc": "projects/employee.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Java", "Spring"],
-    "demo": "demo",
-    "source": "https://github.com/sruthiganesan11/Employee-Management-Application"
-  },
-  {
     "title": "Quotes Generator",
     "imageSrc": "projects/quotes.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project in which you can see the quotes of famous persons",
     "skills": ["Html", "CSS", "JavaScript"],
     "demo": "https://javascript-quotes-generator.netlify.app/",
     "source": "https://github.com/sruthiganesan11/Projects/tree/main/QuotesGenerator"
   },
   {
+    "title": "Dom Pagination",
+    "imageSrc": "projects/pagination.png",
+    "description": "This is a project where the datas are divided into parts",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://dom-pagniation.netlify.app/",
+    "source": "https://github.com/sruthiganesan11/Projects/tree/main/Dom-pagination"
+  },
+  {
     "title": "Dom Calculator",
     "imageSrc": "projects/calsi.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a basic calculator.",
     "skills": ["Html", "CSS", "JavaScript"],
     "demo": "https://dom-calsi.netlify.app/",
     "source": "https://github.com/sruthiganesan11/Projects/tree/main/Dom-calculator"
   },
-  
   {
-    "title": "Dom Pagination",
-    "imageSrc": "projects/pagination.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Html", "CSS", "JavaScript"],
-    "demo": "https://dom-pagniation.netlify.app/",
-    "source": "https://github.com/sruthiganesan11/Projects/tree/main/Dom-pagination"
+    "title": "Online Bus Ticket Reservation",
+    "imageSrc": "projects/bus.png",
+    "description": "This is a which is given by Guvi Geeks as Capstone.In this you can book your bus ticket and can select your favourite seat",
+    "skills": ["React", "Java", "Spring"],
+    "demo": "../Exceptions/YetToBeAdded.jsx",
+    "source": "https://github.com/sruthiganesan11/Online-Bus-Reservation"
+  },
+  {
+    "title": "Patient Medicine and Appointment",
+    "imageSrc": "projects/patient.png",
+    "description": "This is a which is given by Guvi Geeks as a mini-project where you can book doctor appointments and get your prescriptions.",
+    "skills": ["React", "Java", "Spring"],
+    "demo": "projects/yettobeupdated.jpeg",
+    "source": "https://github.com/sruthiganesan11/Patient-Medicine-and-Appointment"
+  },
+  {
+    "title": "Employee Management Application",
+    "imageSrc": "projects/employee.png",
+    "description": "This is a which is given by Guvi Geeks as a mini-project in which you can view employee details.",
+    "skills": ["React", "Java", "Spring"],
+    "demo": "projects/yettobeupdated.jpeg",
+    "source": "https://github.com/sruthiganesan11/Employee-Management-Application"
   }
-  
-
-  
 ]
