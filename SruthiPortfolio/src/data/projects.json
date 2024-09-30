@@ -22,5 +22,33 @@
     "skills": ["React", "Java", "Spring"],
     "demo": "demo",
     "source": "https://github.com/sruthiganesan11/Employee-Management-Application"
+  },
+  {
+    "title": "Quotes Generator",
+    "imageSrc": "projects/quotes.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://javascript-quotes-generator.netlify.app/",
+    "source": "https://github.com/sruthiganesan11/Projects/tree/main/QuotesGenerator"
+  },
+  {
+    "title": "Dom Calculator",
+    "imageSrc": "projects/calsi.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://dom-calsi.netlify.app/",
+    "source": "https://github.com/sruthiganesan11/Projects/tree/main/Dom-calculator"
+  },
+  
+  {
+    "title": "Dom Pagination",
+    "imageSrc": "projects/pagination.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://dom-pagniation.netlify.app/",
+    "source": "https://github.com/sruthiganesan11/Projects/tree/main/Dom-pagination"
   }
+  
+
+  
 ]
